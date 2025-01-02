@@ -33,6 +33,6 @@
 
 ###
 
-<img  align="left" width="70%" src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+<img  align="left" width="65%" src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 
 ###
